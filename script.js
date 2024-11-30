@@ -19,8 +19,8 @@ function initMap() {
 	const markers = [
 		[
 			"Zombie Icon",
-			34.66669734177897,
-			135.4309054875526,
+			26.102056865379204,
+			-80.3907237202355,
 			'zombie-svgrepo-com.svg',
 			38,
 			31,
